@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism2", "Polymorphism2\Polymorphism2.csproj", "{712A74A6-326B-4FEA-BCA2-B574B84FF631}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstracts", "..\Abstracts\Abstracts.csproj", "{E4410973-1D6C-4046-9963-2EC797672524}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{712A74A6-326B-4FEA-BCA2-B574B84FF631}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{712A74A6-326B-4FEA-BCA2-B574B84FF631}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{712A74A6-326B-4FEA-BCA2-B574B84FF631}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{712A74A6-326B-4FEA-BCA2-B574B84FF631}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4410973-1D6C-4046-9963-2EC797672524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4410973-1D6C-4046-9963-2EC797672524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4410973-1D6C-4046-9963-2EC797672524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4410973-1D6C-4046-9963-2EC797672524}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A407908-2FE7-4CE1-B70E-69E26288CF0C}
+	EndGlobalSection
+EndGlobal
